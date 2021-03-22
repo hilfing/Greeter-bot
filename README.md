@@ -11,4 +11,4 @@
 3. Run `npm start`
 4. Interact with your Discord bot via your web browser or app.
 
-For help and suggestions pls dm Hilfing#2978.
+For help and suggestions pls dm [Hilfing#2978](https://discord.com/users/747105431825940560).
