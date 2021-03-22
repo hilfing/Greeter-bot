@@ -1,0 +1,30 @@
+{
+  "name": "greeter-bot",
+  "version": "1.2.4",
+  "description": "A fun Little bot for Discord.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HilFing-Real/Greeter-bot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "djs",
+    "node.js",
+    "discord.js",
+    "json"
+  ],
+  "author": "HilFing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HilFing-Real/Greeter-bot/issues"
+  },
+  "homepage": "https://github.com/HilFing-Real/Greeter-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
